@@ -51,6 +51,6 @@ AI conversational companion prototype built with FastAPI and React.
 
 <div align="center">
 
-<a href="[https://www.linkedin.com](https://www.linkedin.com/in/bashar-soufan-717730352/)">LinkedIn</a> · <a href="https://github.com/bossshhh">GitHub</a>
+<a href="https://www.linkedin.com/in/bashar-soufan-717730352/">LinkedIn</a> · <a href="https://github.com/bossshhh">GitHub</a>
 
 </div>
